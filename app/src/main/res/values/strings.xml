@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">threads</string>
+    <string name="refresh">обновить</string>
+    <string name="point">.</string>
+</resources>
